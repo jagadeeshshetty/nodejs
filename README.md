@@ -1,5 +1,7 @@
 Mac update
 
+Windows update
+
 create a new repository on the command line
 
 echo "# nodejs" >> README.md
