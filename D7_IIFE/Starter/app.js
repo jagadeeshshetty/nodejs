@@ -8,5 +8,3 @@ var firstname = 'jane';
 
 console.log(firstname);
 
-test PaymentRequestUpdateEvent
-
