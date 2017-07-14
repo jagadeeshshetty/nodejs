@@ -61,7 +61,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="765" />
+    <option name="x" value="932" />
     <option name="y" value="23" />
     <option name="width" value="988" />
     <option name="height" value="977" />
@@ -205,7 +205,7 @@
       <updated>1499914376453</updated>
       <workItem from="1499914378494" duration="334000" />
       <workItem from="1499956831201" duration="1469000" />
-      <workItem from="1499997976122" duration="805000" />
+      <workItem from="1499997976122" duration="960000" />
     </task>
     <task id="LOCAL-00001" summary="Mac update">
       <created>1499914598218</created>
@@ -218,10 +218,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2608000" />
+    <option name="totallyTimeSpent" value="2763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="765" y="23" width="988" height="977" extended-state="0" />
+    <frame x="932" y="23" width="988" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2523268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
