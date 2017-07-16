@@ -1,4 +1,3 @@
-
 var express = require('express');
 var app = express();
 var mongoose = require('mongoose');
@@ -8,7 +7,7 @@ var apiController = require('./controllers/apiController');
 
 var port = process.env.PORT || 3000;
 
-app.use('/', express.static(__dirname + '/public'));
+app.use('/assets', express.static(__dirname + '/public'));
 
 app.set('view engine', 'ejs');
 
@@ -17,7 +16,3 @@ setupController(app);
 apiController(app);
 
 app.listen(port);
-
-
-
-
