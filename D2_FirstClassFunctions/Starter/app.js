@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-// Your Javascript Code Goes Here
-=======
 // Your Javascript Code Goes Here
 function greet() {
     console.log('hi');
@@ -28,4 +25,3 @@ logGreeting(function() {
     console.log('use a function expression on the fly');
 });
 
->>>>>>> 69cf060042acb333b09aa67d37c5a28a1e9c9f1c
